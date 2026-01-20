@@ -18,7 +18,7 @@ This project aims to identify fraudulent credit card transactions by handling cl
   - **1** → Fraudulent Transaction
 - The dataset is **highly imbalanced**, with fraudulent transactions forming a very small fraction of the total records.
 - Such imbalance can cause machine learning models to become biased toward the majority class, making sampling techniques necessary.
-
+  
 ---
 
 ### Sampling Techniques Implemented
@@ -50,6 +50,8 @@ Based on the accuracy comparison across all sampling techniques, the **RandomFor
 
 ## Input / Output Flow
 
+<img width="406" height="110" alt="Screenshot 2026-01-21 000252" src="https://github.com/user-attachments/assets/07e6fd60-3036-4a06-8566-708daa169b27" />
+
 ### Input
 - Credit Card Fraud Detection Dataset (CSV)
 
@@ -71,4 +73,6 @@ Based on the accuracy comparison across all sampling techniques, the **RandomFor
 - Identification of the Best Model and Sampling Technique  
 
 ---
+Live link:[Open Colab Notebook](https://colab.research.google.com/drive/1Dj02vauUSnfVqK-EWkhCTpqs43Wdvh6f?usp=sharing)
+
 
