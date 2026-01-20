@@ -73,6 +73,6 @@ Based on the accuracy comparison across all sampling techniques, the **RandomFor
 - Identification of the Best Model and Sampling Technique  
 
 ---
-Live link:[Open Colab Notebook](https://colab.research.google.com/drive/1Dj02vauUSnfVqK-EWkhCTpqs43Wdvh6f?usp=sharing)
+Live link:  [Open Colab Notebook](https://colab.research.google.com/drive/1Dj02vauUSnfVqK-EWkhCTpqs43Wdvh6f?usp=sharing)
 
 
